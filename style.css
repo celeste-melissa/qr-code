@@ -7,7 +7,7 @@ h4, p {
     display: block;
 }
 h4{
-    font-family: Andale Mono;
+    font-family: Helvetica, sans-serif;
     font-size: 20px;
     line-height: 1.3;
     margin: -2px;
@@ -16,7 +16,7 @@ h4{
 
 p{
     font-size: 15px;
-    color: grey;
+    color: #122E76;
     margin: 20px;
     line-height: 1.6;
 }
