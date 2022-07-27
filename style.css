@@ -2,14 +2,14 @@ body{
     background-color: #D5E1EF;
 }
 
-h4, p {
+h3, p {
     text-align: center;
     display: block;
 }
-h4{
+h3{
     font-family: Helvetica, sans-serif;
-    font-size: 20px;
-    line-height: 1.6;
+    font-size: 22px;
+    line-height: 1.5;
     margin: -2px;
     font-weight: bolder;
 }
